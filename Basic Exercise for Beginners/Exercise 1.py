@@ -17,8 +17,10 @@ def calculate(a,b):
 a = 20
 b = 30
 print("1The result is "+ str(calculate(a,b)))
+#1The result is 600
 
 #Example 2
 a = 40
 b = 30
 print("2The result is "+ str(calculate(a,b)))
+#2The result is 70

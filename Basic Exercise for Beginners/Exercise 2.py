@@ -29,3 +29,15 @@ def calculate(a):
 #Example 1
 a = 10
 calculate(a)
+"""
+Current Number 0,Previous Number0,Sum:0
+Current Number 1,Previous Number0,Sum:1
+Current Number 2,Previous Number1,Sum:3
+Current Number 3,Previous Number2,Sum:5
+Current Number 4,Previous Number3,Sum:7
+Current Number 5,Previous Number4,Sum:9
+Current Number 6,Previous Number5,Sum:11
+Current Number 7,Previous Number6,Sum:13
+Current Number 8,Previous Number7,Sum:15
+Current Number 9,Previous Number8,Sum:17
+"""

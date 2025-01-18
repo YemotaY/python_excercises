@@ -8,10 +8,8 @@ numbers_x = [10, 20, 30, 40, 10]
 numbers_y = [75, 65, 35, 75, 30]
 
 Expected output:  
-Given list: [10, 20, 30, 40, 10]
-result is True
-numbers_y = [75, 65, 35, 75, 30]
-result is False
+numbers_x is True
+numbers_y is False
 """
 
 def calculate(a):
@@ -25,4 +23,7 @@ a = [10, 20, 30, 40, 10]
 b = [75, 65, 35, 75, 30]
 print(f"Checking a :{a}, result : {calculate(a)}")
 print(f"Checking b :{b}, result : {calculate(b)}")
-
+"""
+Checking a :[10, 20, 30, 40, 10], result : True
+Checking b :[75, 65, 35, 75, 30], result : False
+"""
