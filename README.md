@@ -1,9 +1,11 @@
 # python_excercises
 from https://pynative.com/python-exercises-with-solutions/
 
+*****************************************************
 ### All exercises are tested on Python 3.
 ### Each exercise has 10-20 Questions.
 ### The solution is provided for every question.
+*****************************************************
 
 ## 01. Basic Exercise for Beginners              ✅ 
 ## 02. Input and Output Exercise                 ❌
