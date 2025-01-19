@@ -8,7 +8,7 @@ from https://pynative.com/python-exercises-with-solutions/
 *****************************************************
 
 ## 01. Basic Exercise for Beginners              ✅ 
-## 02. Input and Output Exercise                 ❌
+## 02. Input and Output Exercise                 ✅
 ## 03. Loop Exercise                             ❌
 ## 04. Functions Exercise                        ❌
 ## 05. String Exercise                           ❌
